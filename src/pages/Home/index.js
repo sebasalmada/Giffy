@@ -19,6 +19,7 @@ export default function Home() {
         <div className='home'>
             <SearchForm onSubmit={handleSubmitSearchForm}/>
             <div className='Listado'>
+                <h4>Última Búsqueda</h4>
                 <ListOfGifs gifs={gifs} />
             </div>
             <LazyTrendings />

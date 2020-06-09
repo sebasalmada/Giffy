@@ -1,6 +1,9 @@
 .trendingsearches ul {
     display: flex;
     flex-wrap: wrap;
+    max-width: 650px;
+    justify-content: center;
+    align-items: center;
 }
 
 .trendingsearches ul li {

@@ -11,7 +11,7 @@ export default function TrendingSearches () {
 
     return (
         <div className='trendingsearches'>
-            <h4>Trendings</h4>
+            <h4>Tendencias Actuales</h4>
             <ul>
                 {
                     trends.map(singleTrend => {
