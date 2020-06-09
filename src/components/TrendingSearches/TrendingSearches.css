@@ -1,0 +1,14 @@
+.trendingsearches ul {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.trendingsearches ul li {
+    list-style: none;
+    text-decoration: none;
+    margin: 2%;
+    cursor: pointer;
+    background-color: yellow;
+    padding: 1%;
+    color: black;
+}

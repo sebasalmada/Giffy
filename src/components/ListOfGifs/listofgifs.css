@@ -1,0 +1,7 @@
+.listofgifs {
+    align-items: center;
+    justify-content: center;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 300px));
+    grid-gap: 10px;
+}

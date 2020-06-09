@@ -1,0 +1,9 @@
+.home {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.Listado {
+    min-height: 100vh;
+}
